@@ -60,8 +60,4 @@
 <a href="https://www.codechef.com/users/najibnahindev" target="blank"><img align="center" src="https://img.icons8.com/color/48/codechef.png" alt="najibnahindev" height="30" width="40" /></a>
 </p>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/najibnahindev/najibnahindev/output/snake.svg" alt="Snake animation" />
-
-###
