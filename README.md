@@ -1,4 +1,4 @@
-# Hello World! I'm Nahin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="32px"> 
+# Hello World! I'm Nahin!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jersey+20&duration=3000&pause=300&background=9EFF3900&multiline=true&width=470&height=75&lines=%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Aspiring+Competitive+Programmer+%26+Software+Engineer;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+Computer+Science+Student;%F0%9F%92%BB+Tech+Enthusiast)](https://git.io/typing-svg)
 
