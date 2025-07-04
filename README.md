@@ -16,6 +16,10 @@
       <br>
     </td>  
     <td align="center" width="96" height="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="50" height="50" />
+      <br>
+    </td>  
+    <td align="center" width="96" height="96">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50" />
       <br>
     </td>
