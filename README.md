@@ -53,7 +53,7 @@
 
 ## 📈 GitHub stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=najibnahindev&show_icons=true&bg_color=00000000&theme=radical" alt="Nahin's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najibnahindev&layout=compact&bg_color=00000000&theme=radical" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nahinio&show_icons=true&bg_color=00000000&theme=radical" alt="Nahin's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahinio&layout=compact&bg_color=00000000&theme=radical" /></a>
 
 
 ## 📞 Contract with me
