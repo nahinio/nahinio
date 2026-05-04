@@ -79,7 +79,7 @@ I'm working toward strong fundamentals, thoughtful systems, and the ability to h
 ## Stats
 
 <p>
-<img height="165" src="https://ghstats.dev/api/card?username=nahinio&hide_border=true&hide_title=true&border_radius=3.5&size=compact" alt="GitHub Stats Card" />&nbsp;<img height="165" src="https://ghstats.dev/api/langs?username=nahinio&hide_border=true&border_radius=3.5&max_langs=12" alt="Top Languages" />
+<img height="165" width="440" src="https://ghstats.dev/api/card?username=nahinio&hide_border=true&hide_title=true&border_radius=3.5&size=compact&card_width=440" alt="GitHub Stats Card" />&nbsp;<img height="165" width="440" src="https://ghstats.dev/api/langs?username=nahinio&hide_border=true&border_radius=3.5&max_langs=12&card_width=440" alt="Top Languages" />
 </p>
 
 
