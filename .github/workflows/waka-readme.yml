@@ -17,9 +17,4 @@ jobs:
           BLOCKS: ░▒▓█
           SHOW_TIME: true
           TIME_RANGE: last_7_days
-          SHOW_TOTAL_CODE_TIME: true
-          SHOW_LANGUAGE: true
-          SHOW_LANGUAGE_PER_REPO: false
-          SHOW_EDITORS: false
-          SHOW_OS: false
-          SHOW_PROJECTS: false
+          SHOW_TOTAL: true
