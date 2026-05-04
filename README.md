@@ -1,4 +1,4 @@
-## Ciao👋, I'm [nahinio!](https://nahinio.xyz)
+# Ciao👋, I'm [nahinio!](https://nahinio.xyz)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahinio/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nahinio)
@@ -96,4 +96,4 @@ I'm working toward strong fundamentals, thoughtful systems, and the ability to h
 6. **Phase 2 Participant** - SOLVIO AI Hackathon 2025, Sheba.xyz
 
 ---
-### Always open to collaboration on ideas that create real impact.
+> ### Always open to collaboration on ideas that create real impact.
