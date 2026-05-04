@@ -1,28 +1,12 @@
 ## Ciao👋, I'm [nahinio!](https://nahinio.xyz)
 
-<p>
-  <a href="https://linkedin.com/in/nahinio/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/profile/nahinio">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/nahinio/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="mailto:nnahin2420504@bscse.uiu.ac.bd">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/nahinio_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://nahinio.xyz">
-    <img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=markdown&logoColor=white"/>
-  </a>
-  <a href="https://your-resume-link.com">
-    <img src="https://img.shields.io/badge/Resume-14213D?style=flat-square&logo=googledocs&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahinio/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nahinio)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/nahinio/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nnahin2420504@bscse.uiu.ac.bd)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nahinio_/)
+[![Blog](https://img.shields.io/badge/Blog-black?style=flat-square&logo=markdown&logoColor=white)](https://nahinio.xyz)
+[![Resume](https://img.shields.io/badge/Resume-14213D?style=flat-square&logo=googledocs&logoColor=white)](https://your-resume-link.com)
 
 I'm a Computer Science undergrad who's deeply curious about how things actually work under the hood. Most of my time goes into AI, especially theoretical machine learning and agentic systems, because I like breaking complex ideas down until they finally click.
 
