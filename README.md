@@ -95,11 +95,12 @@ No activity tracked
 ## Recognitions
 
 1. **Finalist** - Multi-Hazard Early Warning Innovation Challenge (Mapathon 2026), RIMES
-2. **Gold Medalist** - BeatCode 253: Intra UIU Beginner Programming Contest 
-3. **Silver Medalist** - BeatCode 251: Intra UIU Beginner Programming Contest
-4. **Emerging Team Award** - UIU CSE FEST Inter-University Blockchain Olympiad
-5. **2nd Runner-up** - Decentralized Edge: Intra UIU Blockchain Competition
-6. **Phase 2 Participant** - SOLVIO AI Hackathon 2025, Sheba.xyz
+2. **Gold Medalist** - BeatCode 253: Intra UIU Beginner Programming Contest
+3. **Finalist** - Blockchain Olympiad Bangladesh 2025, BCOLBD 
+4. **Silver Medalist** - BeatCode 251: Intra UIU Beginner Programming Contest
+5. **Emerging Team Award** - UIU CSE FEST Inter-University Blockchain Olympiad
+6. **2nd Runner-up** - Decentralized Edge: Intra UIU Blockchain Competition
+7. **Phase 2 Participant** - SOLVIO AI Hackathon 2025, Sheba.xyz
 
 ---
 > ### Always open to collaboration on ideas that create real impact.
