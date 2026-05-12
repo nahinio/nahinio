@@ -94,8 +94,8 @@ Other        18 mins               ██░░░░░░░░░░░░░
       <img src="https://ghstats.dev/api/card?username=nahinio&hide_border=true&hide_title=true&border_radius=0&hide=repos%2Cfollowers%2Cgrade%2Cactive_day" alt="GitHub Stats Card" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://ghstats.dev/api/langs?username=nahinio&hide_border=true&hide_title=true&border_radius=0" alt="Top Languages" width="100%" />
       <img src="https://ghstats.dev/api/sparkline?username=nahinio&days=30&width=320&height=117&hide_border=true" alt="Contribution Sparkline" width="100%" />
+      <img src="https://ghstats.dev/api/langs?username=nahinio&hide_border=true&hide_title=true&border_radius=0" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
