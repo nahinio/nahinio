@@ -103,13 +103,14 @@ JSON       1 min                 ▒░░░░░░░░░░░░░░�
 
 ## Recognitions
 
-1. **Finalist** - Multi-Hazard Early Warning Innovation Challenge (Mapathon 2026), RIMES
-2. **Gold Medalist** - BeatCode 253: Intra UIU Beginner Programming Contest
-3. **Finalist** - Blockchain Olympiad Bangladesh 2025, BCOLBD 
-4. **Silver Medalist** - BeatCode 251: Intra UIU Beginner Programming Contest
-5. **Emerging Team Award** - UIU CSE FEST Inter-University Blockchain Olympiad
-6. **2nd Runner-up** - Decentralized Edge: Intra UIU Blockchain Competition
-7. **Phase 2 Participant** - SOLVIO AI Hackathon 2025, Sheba.xyz
+1. **Runner Up** (Martech Category) - The Infinity AI BuildFest 2026, CloudCamp Bangladesh
+2. **Finalist** - Multi-Hazard Early Warning Innovation Challenge (Mapathon 2026), RIMES
+3. **Gold Medalist** - BeatCode 253: Intra UIU Beginner Programming Contest
+4. **Finalist** - Blockchain Olympiad Bangladesh 2025, BCOLBD 
+5. **Silver Medalist** - BeatCode 251: Intra UIU Beginner Programming Contest
+6. **Emerging Team Award** - UIU CSE FEST Inter-University Blockchain Olympiad
+7. **2nd Runner-up** - Decentralized Edge: Intra UIU Blockchain Competition
+8. **Phase 2 Participant** - SOLVIO AI Hackathon 2025, Sheba.xyz
 
 ---
-> ### Always open to collaboration on ideas that create real impact.
+> ### Open to collaboration on ideas that create real impact.
