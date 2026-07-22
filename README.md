@@ -21,12 +21,14 @@ I'm working toward strong fundamentals, thoughtful systems, and the ability to h
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2026 - To: 20 July 2026
+From: 14 July 2026 - To: 21 July 2026
 
-Total Time: 1 hr 1 min
+Total Time: 3 hrs 15 mins
 
-C++        56 mins               ███████████████████████░░   92.36 %
-Markdown   4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+C++        2 hrs 54 mins         ██████████████████████▒░░   89.08 %
+Python     16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+Markdown   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
