@@ -21,7 +21,7 @@ I'm working toward strong fundamentals, thoughtful systems, and the ability to h
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2026 - To: 23 August 2026
+From: 17 August 2026 - To: 24 August 2026
 
 Total Time: 1 hr 42 mins
 
